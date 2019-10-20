@@ -357,6 +357,7 @@ A curated list of podcasts we like to listen to.
 * [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 * [gPodder](https://gpodder.github.io) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 * [RadioPublic](https://radiopublic.com/)
+* [Spotify](https://www.spotify.com/br/)
 
 ### More
 
